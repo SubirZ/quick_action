@@ -2,6 +2,8 @@
 
 A new Flutter application which demonstrates use of quick actions.
 
+Beautifully documented here: https://medium.com/flutter-community/quick-actions-in-flutter-c455caa4f2ba
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
