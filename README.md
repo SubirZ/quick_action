@@ -4,6 +4,8 @@ A new Flutter application which demonstrates use of quick actions.
 
 Beautifully documented here: https://medium.com/flutter-community/quick-actions-in-flutter-c455caa4f2ba
 
+![image_quickactions](https://user-images.githubusercontent.com/33080619/127726104-6d070fe4-485d-4c0f-b83a-3e84b1e9e6cf.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
